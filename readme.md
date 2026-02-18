@@ -1,2 +1,2 @@
-<h3>Matplot Libray</h3>
+<h3>Matplot Library</h3>
 This repository contain code for python matplotlib library
