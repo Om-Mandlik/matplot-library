@@ -12,3 +12,4 @@ A collection of Python graph and data visualization examples built using the Mat
 - Subplots
 - Custom styling
 - Data visualization examples
+- Visual Graphs 
